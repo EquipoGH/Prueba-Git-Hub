@@ -9,3 +9,4 @@
 @section('content')
     <p>Bienvenido a tu panel ADMINISTRATIVO en Laravel 10.</p>
 @stop
+//Hola
