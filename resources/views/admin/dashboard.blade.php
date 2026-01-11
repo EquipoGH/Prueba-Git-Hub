@@ -7,5 +7,5 @@
 @stop
 
 @section('content')
-    <p>Bienvenido a tu panel AdminLTE en Laravel 10.</p>
+    <p>Bienvenido a tu panel ADMINISTRATIVO en Laravel 10.</p>
 @stop
